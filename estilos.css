@@ -1,0 +1,334 @@
+.cuadroarriba{
+	position: absolute;
+	left: 100px;
+	height: 10px;
+	width: 1170px;
+	background: yellow;
+}
+.titulo{
+	position: absolute;
+	top: 50px;
+	left: 580px;
+	color: yellow;
+	font-size: 60px;
+	font-family: Times new roman;
+}
+.subtitulo{
+	position: absolute;
+	top: 110px;
+	left: 670px;
+	color: yellow;
+	font-size: 10px;
+	font-family: Times new roman;
+}
+.cuadro1{
+	position: absolute;
+	top: 112px;
+	left: 610px;
+	height: 8px;
+	width: 50px;
+	background: yellow;
+}
+.cuadro2{
+	position: absolute;
+	top: 112px;
+	left: 760px;
+	height: 8px;
+	width: 50px;
+	background: yellow;
+}
+.plumas1{
+	background: url("plumas.png") no-repeat;
+	position: absolute;
+	top: 300px;
+	width: 600px;
+	height: 200px;
+	background-size: contain;
+	transform: rotate(45deg);
+}
+.plumas2{
+	background: url("plumas.png") no-repeat;
+	position: absolute;
+	left: 900px;
+	width: 600px;
+	height: 200px;
+	background-size: contain;
+	transform: rotate(-100deg);
+}
+.concurso{
+	position: absolute;
+	top: 200px;
+	left: 550px;
+	color: yellow;
+	font-size: 30px;
+	font-family: Times new roman;
+}
+.voz{
+	position: absolute;
+	top: 250px;
+	left: 450px;
+	color: white;
+	font-size: 70px;
+	font-family: Courier new;
+}
+.carnaval{
+	position: absolute;
+	top: 310px;
+	left: 530px;
+	color: white;
+	font-size: 70px;
+	font-family: Courier new;
+}
+.danza{
+	position: absolute;
+	top: 400px;
+	left: 590px;
+	color: yellow;
+	font-size: 20px;
+	font-family: Times new roman;
+}
+.internacional{
+	position: absolute;
+	top: 420px;
+	left: 620px;
+	color: yellow;
+	font-size: 20px;
+	font-family: Times new roman;
+}
+.silbato{
+	background: url("silbato.png") no-repeat;
+	position: absolute;
+	left: 450px;
+	width: 600px;
+	height: 200px;
+	background-size: contain;
+	transform: rotate(60deg);
+	top: 650px;
+	z-index: 30;
+	}
+.tambor{
+	background: url("baquetas.png") no-repeat;
+	position: absolute;
+	left: 400px;
+	width: 700px;
+	height: 500px;
+	background-size: contain;
+	transform: rotate(10deg);
+	top: 550px;
+}	
+.guitarra{
+	background: url("guitarra.png") no-repeat;
+	position: absolute;
+	left: 320px;
+	width: 800px;
+	height: 600px;
+	background-size: contain;
+	transform: rotate(-100deg);
+	top: 540px;
+	z-index: 30;
+	}
+.chile{
+	position: absolute;
+	top: 450px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(chile.png);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 8px white;
+}	
+.chile{
+	position: absolute;
+	top: 450px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(chile.png);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}	
+.argentina{
+	position: absolute;
+	top: 530px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(argentina.jpg);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}
+.brazil{
+	position: absolute;
+	top: 620px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(brasil.png);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}
+.guatemala{
+	position: absolute;
+	top: 710px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(guatemala.jpg);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}
+.mexico{
+	position: absolute;
+	top: 800px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(mexico.png);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}
+.peru{
+	position: absolute;
+	top: 900px;
+	left: 1200px;
+	width: 100px;
+	height: 100px;
+	background: url(peru.jpg);
+    background-size: cover;
+    border-radius: 200px;
+    border: solid 4px white;
+}
+.tchile{
+	position: absolute;
+	top: 490px;
+	left: 1100px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.targentina{
+	position: absolute;
+	top: 560px;
+	left: 1050px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.tbrazil{
+	position: absolute;
+	top: 650px;
+	left: 1100px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.tguatemala{
+	position: absolute;
+	top: 740px;
+	left: 1060px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.tmexico{
+	position: absolute;
+	top: 840px;
+	left: 1100px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.tperu{
+	position: absolute;
+	top: 940px;
+	left: 1100px;
+	color: grey;
+	font-size: 30px;
+	font-family: EB Garamond;
+}
+.viernes{
+	position: absolute;
+	top: 700px;
+	left: 200px;
+	color: yellow;
+	font-size: 30px;
+	font-family: Times new roman;
+}
+.amarillo{
+	position: absolute;
+	left: 190px;
+	height: 50px;
+	width: 150px;
+	background: yellow;
+	top: 730px;
+	border-radius: 50px;
+}
+.feb{
+	position: absolute;
+	color: black;
+	font-size: 50px;
+	font-family: Aharoni;
+}
+.plaza{
+	position: absolute;
+	top: 800px;
+	left: 220px;
+	color: yellow;
+	font-size: 25px;
+	font-family: times new roman;
+}
+.fray{
+	position: absolute;
+	top: 825px;
+	left: 180px;
+	color: yellow;
+	font-size: 25px;
+	font-family: times new roman;
+}
+.valla{
+	position: absolute;
+	top: 850px;
+	left: 183px;
+	color: yellow;
+	font-size: 25px;
+	font-family: times new roman;
+}
+.linea{
+	position: absolute;
+	top: 890px;
+	left: 170px;
+	height: 2px;
+	width: 190px;
+	background: yellow;
+}
+.h{
+	position: absolute;
+	top: 900px;
+	left: 220px;
+	color: yellow;
+	font-size: 35px;
+	font-family: Aparajita;
+}
+.puyo{
+	position: absolute;
+	top: 1000px;
+	left: 400px;
+	color: yellow;
+	font-size: 35px;
+	font-family: Aparajita;
+}
+.fiesta{
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+	color: white;
+	font-size: 35px;
+	font-family: Courier new;
+	z-index: 80;
+}
